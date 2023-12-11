@@ -1,5 +1,6 @@
 dist/
 .DS_Store
+atomlizard1
 node_modules/
 npm-debug.log*
 yarn-debug.log*
